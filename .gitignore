@@ -1,0 +1,8 @@
+# Node Modules
+node_modules/
+# Scraped Data
+data/
+# Logs
+logs/
+# Environment Variables
+.env
